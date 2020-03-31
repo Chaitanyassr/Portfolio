@@ -37,17 +37,12 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/Chaitanyassr"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    weight = 2
+    url = "https://twitter.com/Chinu282828777"
 
 # Menu links
 [[menu.main]]
