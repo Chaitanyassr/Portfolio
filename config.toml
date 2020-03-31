@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
     author = "Chaitanya"
     info = "Full Stack DevOps/JAMStack enthusiast/ =Game developer"
     description = "Chaitanya portfolio"
-    keywords = "blog,developer,personal"
+    keywords = "Game developer,personal"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
