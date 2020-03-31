@@ -43,6 +43,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-twitter fa-2x"
     weight = 2
     url = "https://twitter.com/Chinu282828777"
+    [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-Linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/mwlite/in/kumar-chaitanya-a04a13147"
 
 # Menu links
 [[menu.main]]
