@@ -11,12 +11,11 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    author = "Chaitanya"
+    info = "Full Stack DevOps/JAMStack enthausist/ =Game developer"
+    description = "Chaitanya portfolio"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
